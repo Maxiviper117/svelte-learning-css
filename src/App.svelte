@@ -1,7 +1,10 @@
 <script lang="ts">
-  import CustomCssLocalVariables from "./lib/components/css_variables/CustomCSSLocalVariables.tip-after.svelte";
+  import CssSubGrid from "./lib/components/css_grid/CssSubGrid.svelte";
+import CustomCssLocalVariables from "./lib/components/css_variables/CustomCSSLocalVariables.tip-after.svelte";
+  
 </script>
 
 <div>
-  <CustomCssLocalVariables />
+  <!-- <CustomCssLocalVariables /> -->
+  <CssSubGrid />
 </div>
