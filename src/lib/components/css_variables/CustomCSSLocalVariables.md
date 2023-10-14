@@ -2,6 +2,9 @@
 
 ### Channel [KevinPowell](https://www.youtube.com/@KevinPowell)
 
+[Example in](./CustomCSSLocalVariables.tip-after.svelte)
+- Uncomment in `App.svelte` to see the result
+
 
 # Refactoring CSS with Custom Properties
 
