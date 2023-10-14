@@ -105,5 +105,3 @@ This CSS and HTML structure allows card content to take up as much space as it n
 
 - It's worthwhile to use fallbacks or alternative layouts for browsers that do not support subgrid to ensure that your website is usable and looks good across all platforms and browsers.
 
-Feel free to adjust and play around with this code, creating variations to help deepen your understanding of how CSS Grid and subgrid work!
-
