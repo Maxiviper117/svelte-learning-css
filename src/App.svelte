@@ -1,5 +1,7 @@
 <script lang="ts">
-  import CustomCssLocalVariables from "./lib/components/css_variables/CustomCSSLocalVariables.tip.svelte";
+  import CustomCssLocalVariables from "./lib/components/css_variables/CustomCSSLocalVariables.tip-after.svelte";
 </script>
 
-<CustomCssLocalVariables />
+<div>
+  <CustomCssLocalVariables />
+</div>
